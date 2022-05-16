@@ -1,0 +1,147 @@
+@media (max-width: 420px) {
+    .rp-fontsize {
+        font-size: 15px;
+    }
+    .details-float-left {
+        float: none;
+        padding-left: 0;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 420px)
+{
+    .contactUsFont{
+        font-size: 16px !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 360px)
+{
+    .dashboard-tiles-font {
+        font-size: 16px !important;
+    }
+    .dashboard-tiles-font-count {
+        font-size: 18px !important;
+    }
+    .dashboard-tiles-font-total {
+        font-size: 20px !important;
+    }
+    .font-size-15 {
+        font-size: 18px !important;
+    }
+    .text-muted.mb-0 {
+        font-size: 16px !important;
+    }
+    .rp-padding {
+        padding-left: 0 !important;
+    }
+    .rp-m-t-40 {
+        margin-top: 10px !important;
+    }
+
+    .modal-title {
+        margin-left: 7px;
+    }
+
+    .pk-registration-qus-scroll-dev {
+        max-height: 500px;
+    }
+
+}
+
+@media (max-width: 420px) {
+    .modal-title {
+        margin-left: 7px;
+    }
+}
+
+.rp-td-class-add {
+    white-space:break-spaces !important
+}
+
+.rp-fa-eye {
+    font-weight: inherit !important;
+    font-size: inherit !important;
+}
+
+[data-test="table-foot"] {
+    display: none;
+}
+
+.details-float-left {
+    float: left;
+}
+
+.rp-color-priority {
+    background-color:  #fcc438;
+    font-size: 15px;
+}
+
+.rp-color-Engagement {
+    background-color:  #0c7cb9;
+    font-size: 15px;
+}
+
+.rp-color-Time1 {
+    background-color:  #c92d39;
+    font-size: 15px;
+}
+
+.rp-color-Time2 {
+    background-color:  #7ab648;
+    font-size: 15px;
+}
+
+.rp-padding {
+    padding-left: 15px;
+}
+
+.rp-font-size {
+    font-size: 15px;
+    font-weight: 250;
+}
+
+.rp-badge-Concern {
+    background-color: #0c64c0;
+}
+.rp-badge-Request {
+    background-color: #763e9b;  
+}
+.rp-badge-Inquiry {
+    background-color: #0f5c1a;
+}
+.rp-badge-Feedback {
+    background-color: #f3901d;
+}
+
+.table-responsive.dashboard-word-break td {
+    word-break: break-word;
+}
+
+.modal-lg, .modal-xl {
+    max-width: 1200px;
+}
+
+.remove-font-weight {
+    font-weight: 100;
+}
+
+.rp-set-width {
+    width: 70% !important;
+}
+
+.rp-set-width2 {
+    width: 30% !important;
+}
+
+.rp-margin {
+    margin-bottom: 10px;
+}
+
+/* .card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 0rem;
+    margin-bottom: 50px;
+} */

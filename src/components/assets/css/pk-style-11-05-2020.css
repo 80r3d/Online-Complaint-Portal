@@ -1,0 +1,186 @@
+/* change for homepage top menu */
+
+/*.nav-pills .nav-link {
+    border-radius: 0;
+}*/
+@media (min-width: 992px) {
+  #topnav .navigation-menu > li > a {
+      padding-left: 0;
+      background-color: #54cc96 !important;
+      border-radius: 1.25rem !important;
+      padding: .5rem 3rem !important;
+      color: #fff !important;
+  }
+
+  #topnav .navbar-custom {
+    padding-top: 4px;
+    background-color: #508aeb;
+    padding-bottom: 4px;
+  }
+
+  .has-submenu-pk{
+      display: none !important;
+  }
+
+  .notification-list .nav-link-pk {
+      padding-left: 0;
+      background-color: #54cc96 !important;
+      /*border-radius: 1.25rem !important;*/
+      padding: .5rem 3rem !important;
+      color: #fff !important;
+      line-height: unset;
+      width: 100%;
+  }
+
+  .notification-list-pk{
+    width: 50%;
+    float: left;
+  }
+
+  .float-right-pk{
+    width: 100%;
+  }
+
+  .post-alert-div{
+    display: block;
+  }
+
+  .dropdown-menu-lg {
+      width: 100%;
+  }
+
+  .notification-list .notify-item .notify-details{
+         margin-left: 0;
+  }
+
+  .aboutus-contactus-pk{
+    display: block;
+  }
+  
+  .wrapper {
+      padding-top: 139px;
+  }
+
+  .waves-effect-pk {
+      display: none;
+  }
+
+  .container-fluid-pk{
+    margin-top: 5%;
+  }
+}
+
+.badge-danger-green {
+    background-color: #54cc96;
+    color:#fff;
+}
+
+.btn-primary-pk{
+    border-radius: 18px;
+    /*background: none;
+    color: #4e4a4a;
+    border: 1px solid #4e4a4a;*/
+}
+
+.border-none{
+  border: none !important;
+  webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.05)
+}
+
+.background-none{
+  background: none !important;
+}
+
+.card-border-none{
+  border: none !important;
+}
+
+.card-pk {
+    border: 1px solid #54cc96 !important;
+}
+
+
+@media (max-width: 991px){
+  #topnav .navigation-menu > li > a {
+    color: #fff!important;
+    padding: 15px;
+    background: #54cc96 !important;
+  }
+
+  .aboutus-contactus-pk{
+    display: none;
+  }
+
+  .waves-effect-pk {
+      display: inline-block;
+  }
+
+  .has-submenu-pk{
+    display: inline-block;
+  }
+
+  .post-alert-div{
+    display: none;
+  }
+
+  .mobile-login{
+    padding-bottom: 40px;
+  }
+  
+}
+
+.form-control {
+    border-color: #54cc96;
+}
+
+/*.card {
+    border: 1px solid #54cc96 !important;
+}*/
+.pk-logo{
+  width: 93%;
+    height: 0%;
+}
+.nav-pills-pk{
+  padding-top:12px;
+}
+
+.nav-link-right-btn{
+  background-color: #54cc96 !important;
+  border-bottom-right-radius: 1.25rem !important;
+  border-top-right-radius: 1.25rem !important;
+  border-bottom-left-radius: 0 !important;
+  border-top-left-radius: 0 !important;
+
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+
+.nav-link-left-btn{
+  background-color: #54cc96 !important;
+  border-bottom-left-radius: 1.25rem !important;
+  border-top-left-radius: 1.25rem !important;
+  border-bottom-right-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.nav-link-pk-btn{
+  background-color: #54cc96 !important;
+  border-radius: 1.25rem !important;
+
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.container-fluid{
+  /*padding-bottom: 6px;
+}
+
+.nav-item-pk{
+  margin-right: 5px;
+}
+/* change for homepage top menu */
